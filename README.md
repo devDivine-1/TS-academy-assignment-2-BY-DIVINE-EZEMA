@@ -21,3 +21,4 @@ docker run --rm diagnostic-cli disk 80
 
 # Check host connectivity
 docker run --rm diagnostic-cli network google.com
+# TS-academy-assignment-2-BY-DIVINE-EZEMA
